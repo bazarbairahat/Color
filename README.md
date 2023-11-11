@@ -1,3 +1,3 @@
 #  Website Color-site
 ## You can the see results here
-[Website Color-site](https://bazarbairahat.github.io/Color-site/)
+[Website Color](https://bazarbairahat.github.io/Color-site/)
